@@ -2,3 +2,4 @@ TicTacToe.hex
 TicTacToe.tmproj
 bin
 *.o
+.DS_Store
