@@ -3,3 +3,5 @@ TicTacToe.tmproj
 bin
 *.o
 .DS_Store
+
+TicTacToe.tmproj
